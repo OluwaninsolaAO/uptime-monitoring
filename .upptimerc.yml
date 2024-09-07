@@ -20,11 +20,11 @@ status-website:
 
     🔍 This status page is powered by the awesome **Upptime** and fueled by 
     approximately 37 cups of coffee ☕ (and counting).
-    \n\n
+    <br><br>
     🤖 We're keeping a watchful eye on my side projects, making sure they don't decide to take an unscheduled nap. No servers were harmed while making this page - we're running on pure GitHub magic! ✨
-    \n\n
+    <br><br>
     🎭 Watch the drama unfold in real time as we track the pulse of each project. Will they thrive? Will they survive? Stay tuned!
-    \n\n
+    <br><br>
     Remember: In the world of side projects, uptime is just a state of mind... but it's nice to know anyway! 😉
 
   navbar:
