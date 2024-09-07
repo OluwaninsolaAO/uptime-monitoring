@@ -4,7 +4,7 @@ repo: uptime-monitoring # The name of this repository
 
 sites:
   - name: Helix Biogen Institute - Test Staging
-    url: https://hbi-web.vercel.app
+    url: https://hbi-web.vercel.app/status
     
 
 status-website:
