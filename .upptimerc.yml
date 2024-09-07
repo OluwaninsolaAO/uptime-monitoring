@@ -7,7 +7,6 @@ sites:
     url: https://hbi-web.vercel.app
   - name: Helix Biogen Institute - Backend - Test Staging
     url: https://hbi-web.vercel.app/status
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,28 +14,26 @@ status-website:
   baseUrl: /uptime-monitoring
   logoUrl: https://emoji.beeimg.com/%F0%9F%A4%93/45/emojidex
   name: SPS Monitor
-  introTitle: "🚀 Welcome to the ultimate **Side Project Survival Monitor**! 🛠️"
+  introTitle: '🚀 Welcome to the ultimate **Side Project Survival Monitor**! 🛠️'
   introMessage: |
     👋 Hello World! 
 
     🔍 This status page is powered by the awesome **Upptime** and fueled by 
     approximately 37 cups of coffee ☕ (and counting).
 
-    🤖 We're keeping a watchful eye on my side projects, making sure they don't 
-    decide to take an unscheduled nap. No servers were harmed while making  
-    this page - we're running on pure GitHub magic! ✨
 
-    🎭 Watch the drama unfold in real time as we track the pulse of each project. 
-    Will they thrive? Will they survive? Stay tuned!
+    🤖 We're keeping a watchful eye on my side projects, making sure they don't decide to take an unscheduled nap. No servers were harmed while making this page - we're running on pure GitHub magic! ✨
 
-    Remember: In the world of side projects, uptime is just a state of mind... 
-    but it's nice to know anyway! 😉  
-  
+
+    🎭 Watch the drama unfold in real time as we track the pulse of each project. Will they thrive? Will they survive? Stay tuned!
+
+
+    Remember: In the world of side projects, uptime is just a state of mind... but it's nice to know anyway! 😉
+
   navbar:
     - title: Status
       href: /uptime-monitoring
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
