@@ -1,7 +1,7 @@
 url: https://hbi-web.vercel.app/status
-status: down
-code: 504
-responseTime: 10066
-lastUpdated: 2024-09-15T23:15:58.204Z
+status: up
+code: 200
+responseTime: 1615
+lastUpdated: 2024-09-16T03:33:03.590Z
 startTime: 2024-09-07T05:09:45.267Z
 generator: Upptime <https://github.com/upptime/upptime>
