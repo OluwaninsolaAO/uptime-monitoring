@@ -7,6 +7,10 @@ sites:
     url: https://hbi-web.vercel.app
   - name: Helix Biogen Institute - Backend - Test Staging
     url: https://hbi-web.vercel.app/status
+  - name: Karlie Portfolio SendMail API
+    url: https://sendmail.karliemoyo.tech/status
+  - name: Eklessia Bible Quiz API
+    url: https://api.eklessia.com/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
