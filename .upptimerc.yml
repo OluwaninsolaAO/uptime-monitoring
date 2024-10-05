@@ -11,6 +11,8 @@ sites:
     url: https://sendmail.karliemoyo.tech/status
   - name: Eklessia Bible Quiz API
     url: https://api.eklessia.com/status
+  - name: Open Science Community Nigeria - API
+    url: https://api.oscnigeria.org/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
