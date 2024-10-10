@@ -1,7 +1,7 @@
 url: https://api.eklessia.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-10T11:21:58.996Z
+status: up
+code: 200
+responseTime: 379
+lastUpdated: 2024-10-10T11:31:33.344Z
 startTime: 2024-09-20T10:41:22.240Z
 generator: Upptime <https://github.com/upptime/upptime>
