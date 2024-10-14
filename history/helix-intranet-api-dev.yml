@@ -1,7 +1,7 @@
 url: https://helix-biogen-institute-intranet-backend.onrender.com/status
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2024-10-14T06:59:33.738Z
+status: down
+code: 503
+responseTime: 229
+lastUpdated: 2024-10-14T07:26:18.004Z
 startTime: 2024-10-08T13:15:47.844Z
 generator: Upptime <https://github.com/upptime/upptime>
