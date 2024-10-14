@@ -13,8 +13,8 @@ sites:
     url: https://api.eklessia.com/status
   - name: Open Science Community Nigeria - API
     url: https://api.oscnigeria.org/status
-  - name: Helix Intranet API | Dev
-    url: https://helix-biogen-institute-intranet-backend.onrender.com/status
+  - name: Helix Intranet API - Dev
+    url: https://hbi-intranet-backend.onrender.com/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
