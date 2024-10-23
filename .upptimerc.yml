@@ -9,8 +9,6 @@ sites:
     url: https://hbi-web.vercel.app/status
   - name: Karlie Portfolio SendMail API
     url: https://sendmail.karliemoyo.tech/status
-  - name: Eklessia Bible Quiz API
-    url: https://api.eklessia.com/status
   - name: Open Science Community Nigeria - API
     url: https://api.oscnigeria.org/status
   - name: Helix Intranet API - Dev
