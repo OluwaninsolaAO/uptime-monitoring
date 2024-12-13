@@ -44,14 +44,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "96.43%",
+    "uptimeYear": "96.44%",
     "time": 1615,
     "timeDay": 2292,
-    "timeWeek": 2883,
+    "timeWeek": 3220,
     "timeMonth": 1797,
     "timeYear": 1615,
     "dailyMinutesDown": {
@@ -115,18 +115,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "71.46%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "71.46%",
+    "status": "down",
+    "uptime": "71.61%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "71.61%",
     "time": 5176,
     "timeDay": 11580,
     "timeWeek": 10109,
-    "timeMonth": 5248,
+    "timeMonth": 5303,
     "timeYear": 5176,
     "dailyMinutesDown": {
+      "2024-12-13": 2,
       "2024-12-12": 30,
       "2024-12-10": 51,
       "2024-12-03": 63,
@@ -181,8 +182,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 994,
       "2024-10-13": 76,
-      "2024-10-12": 45,
-      "2024-10-11": 15
+      "2024-10-12": 45
     }
   },
   {
@@ -190,16 +190,16 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "96.68%",
-    "uptimeDay": "98.94%",
+    "status": "down",
+    "uptime": "96.72%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "98.43%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "96.68%",
+    "uptimeYear": "96.72%",
     "time": 4758,
     "timeDay": 1819,
     "timeWeek": 3244,
-    "timeMonth": 4428,
+    "timeMonth": 4546,
     "timeYear": 4758,
     "dailyMinutesDown": {
       "2024-12-13": 15,
@@ -250,7 +250,7 @@
       "2024-10-19": 49,
       "2024-10-18": 40,
       "2024-10-17": 28,
-      "2024-10-16": 49
+      "2024-10-16": 30
     }
   }
 ]
