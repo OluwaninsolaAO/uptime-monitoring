@@ -1,7 +1,7 @@
 url: https://hbi-intranet-backend.onrender.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-29T15:22:45.905Z
+status: up
+code: 200
+responseTime: 512
+lastUpdated: 2024-12-29T15:31:26.319Z
 startTime: 2024-10-08T13:15:47.844Z
 generator: Upptime <https://github.com/upptime/upptime>
