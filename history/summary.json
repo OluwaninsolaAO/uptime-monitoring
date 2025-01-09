@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "97.52%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "97.20%",
+    "uptimeYear": "97.21%",
     "time": 1722,
     "timeDay": 3181,
     "timeWeek": 3141,
@@ -126,19 +126,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "97.07%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "97.03%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "98.98%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.15%",
     "time": 6003,
     "timeDay": 15390,
     "timeWeek": 11840,
     "timeMonth": 10554,
     "timeYear": 6003,
     "dailyMinutesDown": {
-      "2025-01-09": 42,
+      "2025-01-09": 43,
       "2025-01-06": 140,
       "2025-01-05": 39,
       "2025-01-04": 17,
@@ -176,8 +176,7 @@
       "2024-11-10": 35,
       "2024-11-09": 59,
       "2024-11-08": 33,
-      "2024-11-07": 44,
-      "2024-11-06": 29
+      "2024-11-07": 44
     }
   },
   {
@@ -187,17 +186,16 @@
     "slug": "helix-intranet-api-dev",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "97.67%",
     "time": 4882,
     "timeDay": 2416,
     "timeWeek": 3752,
-    "timeMonth": 4701,
+    "timeMonth": 4841,
     "timeYear": 4882,
     "dailyMinutesDown": {
-      "2025-01-09": 15,
       "2025-01-05": 20,
       "2025-01-03": 32,
       "2025-01-02": 18,
@@ -249,7 +247,7 @@
       "2024-10-24": 48,
       "2024-10-23": 62,
       "2024-10-21": 19,
-      "2024-10-20": 39
+      "2024-10-20": 61
     }
   }
 ]
