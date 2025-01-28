@@ -132,19 +132,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.42%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.43%",
     "time": 6146,
     "timeDay": 994,
     "timeWeek": 5043,
     "timeMonth": 8989,
     "timeYear": 6146,
     "dailyMinutesDown": {
-      "2025-01-28": 44,
+      "2025-01-28": 45,
       "2025-01-27": 19,
       "2025-01-26": 19,
       "2025-01-24": 18,
@@ -185,7 +185,7 @@
       "2024-11-17": 60,
       "2024-11-16": 21,
       "2024-11-15": 68,
-      "2024-11-14": 40
+      "2024-11-14": 17
     }
   },
   {
@@ -195,9 +195,9 @@
     "slug": "helix-intranet-api-dev",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "98.08%",
     "time": 4954,
     "timeDay": 2788,
@@ -205,7 +205,6 @@
     "timeMonth": 4971,
     "timeYear": 4954,
     "dailyMinutesDown": {
-      "2025-01-28": 9,
       "2025-01-27": 17,
       "2025-01-24": 17,
       "2025-01-23": 31,
@@ -259,7 +258,7 @@
       "2024-10-26": 82,
       "2024-10-25": 117,
       "2024-10-24": 48,
-      "2024-10-23": 15
+      "2024-10-23": 33
     }
   }
 ]
