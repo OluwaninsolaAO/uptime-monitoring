@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "96.81%",
+    "uptimeYear": "96.82%",
     "time": 1808,
     "timeDay": 767,
     "timeWeek": 1458,
@@ -132,19 +132,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "94.30%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "95.08%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 6132,
     "timeDay": 913,
     "timeWeek": 4785,
     "timeMonth": 8882,
     "timeYear": 6132,
     "dailyMinutesDown": {
-      "2025-01-28": 63,
+      "2025-01-28": 64,
       "2025-01-27": 19,
       "2025-01-26": 19,
       "2025-01-24": 18,
@@ -184,8 +184,7 @@
       "2024-11-18": 78,
       "2024-11-17": 60,
       "2024-11-16": 21,
-      "2024-11-15": 68,
-      "2024-11-14": 17
+      "2024-11-15": 68
     }
   },
   {
@@ -194,18 +193,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
     "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "98.09%",
+    "uptime": "98.08%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "98.08%",
     "time": 4941,
     "timeDay": 2229,
     "timeWeek": 7365,
     "timeMonth": 4896,
     "timeYear": 4941,
     "dailyMinutesDown": {
-      "2025-01-28": 9,
       "2025-01-27": 17,
       "2025-01-24": 17,
       "2025-01-23": 31,
@@ -259,7 +257,7 @@
       "2024-10-26": 82,
       "2024-10-25": 117,
       "2024-10-24": 48,
-      "2024-10-23": 15
+      "2024-10-23": 33
     }
   }
 ]
