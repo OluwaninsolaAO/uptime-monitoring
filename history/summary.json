@@ -132,18 +132,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "98.69%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "98.41%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 6158,
     "timeDay": 938,
     "timeWeek": 5305,
     "timeMonth": 9093,
     "timeYear": 6158,
     "dailyMinutesDown": {
+      "2025-01-28": 0,
       "2025-01-27": 19,
       "2025-01-26": 19,
       "2025-01-24": 18,
@@ -184,8 +185,7 @@
       "2024-11-17": 60,
       "2024-11-16": 21,
       "2024-11-15": 68,
-      "2024-11-14": 40,
-      "2024-11-13": 19
+      "2024-11-14": 40
     }
   },
   {
