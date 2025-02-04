@@ -24,7 +24,7 @@
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "43.58%",
+    "uptimeDay": "47.64%",
     "uptimeWeek": "76.29%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "95.59%",
@@ -137,18 +137,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "89.44%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.50%",
     "time": 6190,
     "timeDay": 3577,
     "timeWeek": 6597,
     "timeMonth": 8091,
     "timeYear": 6190,
     "dailyMinutesDown": {
+      "2025-02-04": 2,
       "2025-02-03": 152,
       "2025-02-02": 49,
       "2025-02-01": 40,
@@ -190,7 +191,7 @@
       "2024-11-22": 95,
       "2024-11-21": 69,
       "2024-11-20": 39,
-      "2024-11-19": 36
+      "2024-11-19": 18
     }
   },
   {
@@ -198,18 +199,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.20%",
     "time": 4957,
     "timeDay": 477,
     "timeWeek": 4675,
     "timeMonth": 5209,
     "timeYear": 4957,
     "dailyMinutesDown": {
+      "2025-02-04": 0,
       "2025-02-02": 19,
       "2025-01-27": 17,
       "2025-01-24": 17,
@@ -263,8 +265,7 @@
       "2024-10-27": 50,
       "2024-10-26": 82,
       "2024-10-25": 117,
-      "2024-10-24": 48,
-      "2024-10-23": 15
+      "2024-10-24": 48
     }
   }
 ]
