@@ -52,18 +52,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.70%",
     "time": 1988,
     "timeDay": 1221,
-    "timeWeek": 2800,
+    "timeWeek": 2895,
     "timeMonth": 3823,
     "timeYear": 1988,
     "dailyMinutesDown": {
+      "2025-02-06": 1,
       "2025-02-04": 25,
       "2025-01-31": 21,
       "2025-01-30": 27,
@@ -128,8 +129,7 @@
       "2024-10-03": 35,
       "2024-10-02": 65,
       "2024-10-01": 82,
-      "2024-09-30": 20,
-      "2024-09-27": 26
+      "2024-09-30": 20
     }
   },
   {
@@ -138,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
     "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.49%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "98.49%",
     "time": 6191,
     "timeDay": 5932,
     "timeWeek": 6337,
     "timeMonth": 7378,
     "timeYear": 6191,
     "dailyMinutesDown": {
-      "2025-02-06": 76,
+      "2025-02-06": 61,
       "2025-02-05": 46,
       "2025-02-04": 95,
       "2025-02-03": 152,
@@ -190,7 +190,7 @@
       "2024-11-25": 23,
       "2024-11-24": 71,
       "2024-11-23": 66,
-      "2024-11-22": 55
+      "2024-11-22": 95
     }
   },
   {
@@ -199,18 +199,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.23%",
+    "uptime": "98.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "98.21%",
     "time": 4963,
     "timeDay": 1189,
     "timeWeek": 5228,
     "timeMonth": 5154,
     "timeYear": 4963,
     "dailyMinutesDown": {
-      "2025-02-06": 13,
       "2025-02-04": 44,
       "2025-02-02": 19,
       "2025-01-27": 17,
@@ -264,7 +263,8 @@
       "2024-10-28": 106,
       "2024-10-27": 50,
       "2024-10-26": 82,
-      "2024-10-25": 117
+      "2024-10-25": 117,
+      "2024-10-24": 48
     }
   }
 ]
