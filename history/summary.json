@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "95.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.40%",
+    "uptimeWeek": "82.49%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "95.78%",
     "time": 1910,
@@ -137,19 +137,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "94.43%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "97.37%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 6117,
     "timeDay": 4737,
-    "timeWeek": 4812,
-    "timeMonth": 6433,
+    "timeWeek": 4896,
+    "timeMonth": 6485,
     "timeYear": 6117,
     "dailyMinutesDown": {
-      "2025-02-09": 85,
+      "2025-02-09": 86,
       "2025-02-08": 36,
       "2025-02-07": 37,
       "2025-02-06": 61,
@@ -192,7 +192,7 @@
       "2024-11-26": 137,
       "2024-11-25": 23,
       "2024-11-24": 71,
-      "2024-11-23": 66
+      "2024-11-23": 47
     }
   },
   {
@@ -201,18 +201,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
     "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "98.30%",
+    "uptime": "98.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "98.26%",
     "time": 4998,
     "timeDay": 7842,
     "timeWeek": 5919,
-    "timeMonth": 5535,
+    "timeMonth": 5619,
     "timeYear": 4998,
     "dailyMinutesDown": {
-      "2025-02-09": 10,
       "2025-02-07": 17,
       "2025-02-04": 44,
       "2025-02-02": 19,
@@ -267,7 +266,7 @@
       "2024-10-28": 106,
       "2024-10-27": 50,
       "2024-10-26": 82,
-      "2024-10-25": 43
+      "2024-10-25": 117
     }
   }
 ]
