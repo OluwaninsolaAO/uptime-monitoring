@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 86,
-    "timeWeek": 110,
+    "timeWeek": 115,
     "timeMonth": 131,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "95.83%",
     "time": 1847,
     "timeDay": 1739,
-    "timeWeek": 1435,
+    "timeWeek": 1464,
     "timeMonth": 2010,
     "timeYear": 1847,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "uptimeYear": "97.81%",
     "time": 1946,
     "timeDay": 208,
-    "timeWeek": 666,
+    "timeWeek": 710,
     "timeMonth": 3020,
     "timeYear": 1946,
     "dailyMinutesDown": {
@@ -141,17 +141,17 @@
     "slug": "open-science-community-nigeria-api",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.51%",
     "time": 5908,
     "timeDay": 803,
-    "timeWeek": 3474,
+    "timeWeek": 3523,
     "timeMonth": 5423,
     "timeYear": 5908,
     "dailyMinutesDown": {
-      "2025-02-13": 61,
+      "2025-02-13": 54,
       "2025-02-12": 100,
       "2025-02-11": 36,
       "2025-02-10": 87,
@@ -194,7 +194,8 @@
       "2024-11-30": 34,
       "2024-11-29": 124,
       "2024-11-28": 296,
-      "2024-11-27": 195
+      "2024-11-27": 195,
+      "2024-11-26": 20
     }
   },
   {
@@ -210,7 +211,7 @@
     "uptimeYear": "98.33%",
     "time": 4983,
     "timeDay": 509,
-    "timeWeek": 6184,
+    "timeWeek": 4716,
     "timeMonth": 5289,
     "timeYear": 4983,
     "dailyMinutesDown": {
