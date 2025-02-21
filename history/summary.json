@@ -58,7 +58,7 @@
     "status": "up",
     "uptime": "97.96%",
     "uptimeDay": "98.84%",
-    "uptimeWeek": "99.26%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "97.96%",
     "time": 1915,
@@ -139,19 +139,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "96.76%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "96.75%",
     "uptimeMonth": "96.40%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.70%",
     "time": 5872,
-    "timeDay": 5082,
-    "timeWeek": 4948,
+    "timeDay": 6178,
+    "timeWeek": 5052,
     "timeMonth": 5121,
     "timeYear": 5872,
     "dailyMinutesDown": {
-      "2025-02-21": 35,
+      "2025-02-21": 36,
       "2025-02-20": 39,
       "2025-02-19": 45,
       "2025-02-18": 51,
@@ -199,8 +199,7 @@
       "2024-12-03": 63,
       "2024-12-02": 51,
       "2024-12-01": 104,
-      "2024-11-30": 34,
-      "2024-11-29": 26
+      "2024-11-30": 34
     }
   },
   {
@@ -209,18 +208,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
     "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "98.46%",
+    "uptime": "98.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "98.45%",
     "time": 4977,
     "timeDay": 4418,
     "timeWeek": 5362,
     "timeMonth": 5741,
     "timeYear": 4977,
     "dailyMinutesDown": {
-      "2025-02-21": 8,
       "2025-02-20": 17,
       "2025-02-19": 54,
       "2025-02-18": 15,
@@ -278,7 +276,8 @@
       "2024-10-30": 55,
       "2024-10-29": 301,
       "2024-10-28": 106,
-      "2024-10-27": 50
+      "2024-10-27": 50,
+      "2024-10-26": 20
     }
   }
 ]
