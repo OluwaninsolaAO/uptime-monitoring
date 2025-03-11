@@ -57,9 +57,9 @@
     "slug": "karlie-portfolio-send-mail-api",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.03%",
     "time": 2047,
     "timeDay": 463,
@@ -67,7 +67,6 @@
     "timeMonth": 2602,
     "timeYear": 2047,
     "dailyMinutesDown": {
-      "2025-03-11": 10,
       "2025-03-10": 24,
       "2025-03-09": 18,
       "2025-03-06": 53,
@@ -133,7 +132,8 @@
       "2024-10-20": 32,
       "2024-10-19": 19,
       "2024-10-18": 26,
-      "2024-10-17": 44
+      "2024-10-17": 44,
+      "2024-10-16": 15
     }
   },
   {
@@ -141,18 +141,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.44%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.43%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 5711,
     "timeDay": 610,
     "timeWeek": 5752,
     "timeMonth": 4284,
     "timeYear": 5711,
     "dailyMinutesDown": {
+      "2025-03-11": 1,
       "2025-03-10": 19,
       "2025-03-08": 15,
       "2025-03-06": 124,
@@ -203,8 +204,7 @@
       "2025-01-03": 23,
       "2025-01-02": 23,
       "2024-12-27": 16,
-      "2024-12-18": 18,
-      "2024-12-17": 15
+      "2024-12-18": 18
     }
   },
   {
