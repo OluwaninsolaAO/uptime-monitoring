@@ -57,9 +57,9 @@
     "slug": "karlie-portfolio-send-mail-api",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.06%",
     "time": 2176,
     "timeDay": 8659,
@@ -67,7 +67,6 @@
     "timeMonth": 3795,
     "timeYear": 2176,
     "dailyMinutesDown": {
-      "2025-03-16": 14,
       "2025-03-13": 31,
       "2025-03-12": 58,
       "2025-03-10": 24,
@@ -132,7 +131,8 @@
       "2024-10-23": 56,
       "2024-10-22": 27,
       "2024-10-21": 68,
-      "2024-10-20": 32
+      "2024-10-20": 32,
+      "2024-10-19": 19
     }
   },
   {
@@ -147,7 +147,7 @@
     "uptimeMonth": "98.18%",
     "uptimeYear": "98.83%",
     "time": 5722,
-    "timeDay": 4717,
+    "timeDay": 6753,
     "timeWeek": 5129,
     "timeMonth": 4439,
     "timeYear": 5722,
@@ -211,18 +211,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.80%",
     "time": 5180,
     "timeDay": 18326,
     "timeWeek": 9562,
     "timeMonth": 6921,
     "timeYear": 5180,
     "dailyMinutesDown": {
+      "2025-03-16": 0,
       "2025-03-12": 58,
       "2025-03-10": 19,
       "2025-03-09": 16,
@@ -283,8 +284,7 @@
       "2024-11-03": 42,
       "2024-11-02": 100,
       "2024-11-01": 79,
-      "2024-10-31": 46,
-      "2024-10-30": 55
+      "2024-10-31": 46
     }
   }
 ]
