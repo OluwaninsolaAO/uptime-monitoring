@@ -1,7 +1,7 @@
 url: https://sendmail.karliemoyo.tech/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-27T17:22:41.976Z
+status: up
+code: 200
+responseTime: 1210
+lastUpdated: 2025-03-27T17:36:02.008Z
 startTime: 2024-09-20T10:41:21.749Z
 generator: Upptime <https://github.com/upptime/upptime>
