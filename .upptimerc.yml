@@ -7,7 +7,7 @@ sites:
     url: https://hbi-web.vercel.app
   - name: Helix Biogen Institute - Backend - Production Staging
     url: https://hbi-web.vercel.app/status
-  - name: Karlie Portfolio SendMail API
+  - name: Karlie Moyo Portfolio SendMail API
     url: https://sendmail.karliemoyo.tech/status
   - name: Open Science Community Nigeria - API
     url: https://api.oscnigeria.org/status
