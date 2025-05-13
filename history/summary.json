@@ -57,10 +57,10 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.93%",
     "time": 5770,
@@ -69,6 +69,7 @@
     "timeMonth": 6098,
     "timeYear": 5770,
     "dailyMinutesDown": {
+      "2025-05-13": 0,
       "2025-05-06": 67,
       "2025-05-05": 26,
       "2025-05-04": 16,
@@ -97,7 +98,7 @@
     "uptime": "82.32%",
     "uptimeDay": "98.76%",
     "uptimeWeek": "98.68%",
-    "uptimeMonth": "26.72%",
+    "uptimeMonth": "26.77%",
     "uptimeYear": "82.32%",
     "time": 5876,
     "timeDay": 639,
@@ -207,9 +208,9 @@
     "slug": "helix-intranet-api-dev",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.23%",
     "time": 5215,
     "timeDay": 1450,
@@ -217,7 +218,7 @@
     "timeMonth": 4868,
     "timeYear": 5215,
     "dailyMinutesDown": {
-      "2025-05-13": 51,
+      "2025-05-13": 42,
       "2025-05-12": 19,
       "2025-05-06": 47,
       "2025-05-05": 106,
@@ -279,7 +280,8 @@
       "2024-11-21": 18,
       "2024-11-20": 69,
       "2024-11-19": 16,
-      "2024-11-18": 40
+      "2024-11-18": 40,
+      "2024-11-16": 20
     }
   }
 ]
