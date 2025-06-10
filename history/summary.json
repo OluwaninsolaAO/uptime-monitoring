@@ -58,11 +58,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 5194,
     "timeDay": 15119,
     "timeWeek": 2854,
@@ -111,18 +111,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "84.33%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "84.34%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "84.33%",
+    "uptimeYear": "84.34%",
     "time": 5875,
     "timeDay": 4696,
-    "timeWeek": 2433,
+    "timeWeek": 2592,
     "timeMonth": 5786,
     "timeYear": 5875,
     "dailyMinutesDown": {
+      "2025-06-10": 1,
       "2025-06-09": 19,
       "2025-06-03": 19,
       "2025-06-02": 17,
@@ -217,8 +218,7 @@
       "2025-02-04": 95,
       "2025-02-03": 152,
       "2025-02-02": 49,
-      "2025-02-01": 40,
-      "2025-01-31": 25
+      "2025-02-01": 40
     }
   },
   {
@@ -228,9 +228,9 @@
     "slug": "helix-intranet-api-dev",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.29%",
     "time": 5365,
     "timeDay": 3013,
@@ -238,7 +238,6 @@
     "timeMonth": 6205,
     "timeYear": 5365,
     "dailyMinutesDown": {
-      "2025-06-10": 8,
       "2025-06-08": 30,
       "2025-06-05": 125,
       "2025-06-04": 18,
@@ -304,7 +303,8 @@
       "2024-12-02": 64,
       "2024-12-01": 143,
       "2024-11-29": 36,
-      "2024-11-28": 34
+      "2024-11-28": 34,
+      "2024-11-27": 16
     }
   }
 ]
