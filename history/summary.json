@@ -57,11 +57,11 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "98.66%",
     "time": 5063,
     "timeDay": 5763,
@@ -69,6 +69,7 @@
     "timeMonth": 4422,
     "timeYear": 5063,
     "dailyMinutesDown": {
+      "2025-06-16": 2,
       "2025-06-15": 17,
       "2025-06-13": 56,
       "2025-06-12": 19,
@@ -231,9 +232,9 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.31%",
@@ -243,6 +244,7 @@
     "timeMonth": 6300,
     "timeYear": 5367,
     "dailyMinutesDown": {
+      "2025-06-16": 0,
       "2025-06-15": 20,
       "2025-06-10": 21,
       "2025-06-08": 30,
@@ -309,8 +311,7 @@
       "2024-12-03": 58,
       "2024-12-02": 64,
       "2024-12-01": 143,
-      "2024-11-29": 36,
-      "2024-11-28": 16
+      "2024-11-29": 36
     }
   }
 ]
