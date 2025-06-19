@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.64%",
     "time": 1805,
     "timeDay": 1763,
     "timeWeek": 1363,
@@ -120,9 +120,9 @@
     "slug": "open-science-community-nigeria-api",
     "status": "up",
     "uptime": "84.90%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "84.90%",
     "time": 5844,
     "timeDay": 3502,
@@ -130,7 +130,6 @@
     "timeMonth": 4867,
     "timeYear": 5844,
     "dailyMinutesDown": {
-      "2025-06-19": 9,
       "2025-06-18": 24,
       "2025-06-17": 19,
       "2025-06-14": 17,
@@ -229,7 +228,7 @@
       "2025-02-06": 61,
       "2025-02-05": 46,
       "2025-02-04": 95,
-      "2025-02-03": 51
+      "2025-02-03": 75
     }
   },
   {
@@ -237,12 +236,12 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "98.06%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 5383,
     "timeDay": 13378,
     "timeWeek": 6286,
@@ -316,7 +315,7 @@
       "2024-12-08": 106,
       "2024-12-04": 32,
       "2024-12-03": 58,
-      "2024-12-02": 64
+      "2024-12-02": 31
     }
   }
 ]
