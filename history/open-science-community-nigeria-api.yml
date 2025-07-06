@@ -1,7 +1,7 @@
 url: https://api.oscnigeria.org/status
-status: down
-code: 502
-responseTime: 512
-lastUpdated: 2025-07-06T11:31:42.309Z
+status: up
+code: 200
+responseTime: 853
+lastUpdated: 2025-07-06T11:43:05.256Z
 startTime: 2024-10-05T16:55:45.216Z
 generator: Upptime <https://github.com/upptime/upptime>
