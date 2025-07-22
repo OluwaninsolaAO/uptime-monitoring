@@ -270,18 +270,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "93.38%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "93.36%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 5355,
     "timeDay": 7807,
     "timeWeek": 9247,
     "timeMonth": 5424,
     "timeYear": 5355,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-21": 95,
       "2025-07-18": 71,
       "2025-07-15": 32,
@@ -337,7 +338,7 @@
       "2025-03-21": 18,
       "2025-03-20": 17,
       "2025-03-19": 20,
-      "2025-03-12": 58
+      "2025-03-12": 27
     }
   }
 ]
