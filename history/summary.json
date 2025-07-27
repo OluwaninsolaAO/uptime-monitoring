@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 1847,
     "timeDay": 1642,
     "timeWeek": 1686,
@@ -271,18 +271,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.14%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "97.14%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 5407,
     "timeDay": 558,
     "timeWeek": 11743,
     "timeMonth": 5791,
     "timeYear": 5407,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-22": 92,
       "2025-07-21": 95,
       "2025-07-18": 71,
@@ -337,8 +338,7 @@
       "2025-03-29": 25,
       "2025-03-24": 71,
       "2025-03-21": 18,
-      "2025-03-20": 17,
-      "2025-03-19": 20
+      "2025-03-20": 17
     }
   }
 ]
