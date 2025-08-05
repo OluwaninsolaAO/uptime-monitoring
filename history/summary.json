@@ -66,12 +66,12 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "94.94%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "94.93%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "97.13%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.17%",
     "time": 4612,
     "timeDay": 3712,
     "timeWeek": 7507,
@@ -144,7 +144,7 @@
       "2025-04-06": 36,
       "2025-04-05": 39,
       "2025-04-04": 31,
-      "2025-04-03": 48
+      "2025-04-03": 15
     }
   },
   {
@@ -154,7 +154,7 @@
     "slug": "open-science-community-nigeria-api",
     "status": "up",
     "uptime": "87.19%",
-    "uptimeDay": "95.07%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "97.38%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "87.19%",
