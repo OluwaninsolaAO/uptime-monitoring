@@ -68,7 +68,7 @@
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "96.24%",
+    "uptimeDay": "97.01%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "98.16%",
@@ -152,18 +152,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "87.23%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "98.33%",
+    "status": "down",
+    "uptime": "87.24%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "87.23%",
+    "uptimeYear": "87.24%",
     "time": 5999,
-    "timeDay": 14625,
-    "timeWeek": 9036,
+    "timeDay": 28424,
+    "timeWeek": 9680,
     "timeMonth": 7271,
     "timeYear": 5999,
     "dailyMinutesDown": {
+      "2025-08-06": 2,
       "2025-08-05": 34,
       "2025-08-04": 107,
       "2025-07-31": 29,
@@ -271,8 +272,7 @@
       "2025-02-24": 16,
       "2025-02-23": 81,
       "2025-02-21": 35,
-      "2025-02-20": 39,
-      "2025-02-19": 28
+      "2025-02-20": 39
     }
   },
   {
@@ -280,14 +280,14 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "90.64%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "92.36%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 5422,
-    "timeDay": 3779,
+    "timeDay": 3730,
     "timeWeek": 5633,
     "timeMonth": 5304,
     "timeYear": 5422,
@@ -344,8 +344,7 @@
       "2025-04-14": 69,
       "2025-04-13": 16,
       "2025-04-10": 19,
-      "2025-04-08": 40,
-      "2025-04-06": 34
+      "2025-04-08": 40
     }
   }
 ]
