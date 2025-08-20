@@ -27,12 +27,12 @@
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "85.80%",
+    "uptimeDay": "89.21%",
     "uptimeWeek": "89.96%",
     "uptimeMonth": "93.86%",
     "uptimeYear": "97.48%",
     "time": 2874,
-    "timeDay": 6082,
+    "timeDay": 6109,
     "timeWeek": 5917,
     "timeMonth": 5274,
     "timeYear": 2874,
@@ -165,18 +165,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "87.77%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "98.30%",
+    "status": "down",
+    "uptime": "87.78%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "98.29%",
     "uptimeMonth": "98.35%",
-    "uptimeYear": "87.77%",
+    "uptimeYear": "87.78%",
     "time": 5974,
     "timeDay": 779,
-    "timeWeek": 2547,
+    "timeWeek": 2663,
     "timeMonth": 7490,
     "timeYear": 5974,
     "dailyMinutesDown": {
+      "2025-08-20": 2,
       "2025-08-19": 66,
       "2025-08-18": 27,
       "2025-08-15": 59,
@@ -284,8 +285,7 @@
       "2025-03-08": 15,
       "2025-03-06": 124,
       "2025-03-05": 100,
-      "2025-03-02": 50,
-      "2025-03-01": 18
+      "2025-03-02": 50
     }
   },
   {
@@ -293,10 +293,10 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "96.20%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "96.19%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.27%",
     "time": 5448,
@@ -305,6 +305,7 @@
     "timeMonth": 7265,
     "timeYear": 5448,
     "dailyMinutesDown": {
+      "2025-08-20": 0,
       "2025-08-19": 22,
       "2025-08-18": 48,
       "2025-08-17": 314,
@@ -359,7 +360,7 @@
       "2025-05-05": 106,
       "2025-04-28": 18,
       "2025-04-26": 35,
-      "2025-04-22": 42
+      "2025-04-22": 24
     }
   }
 ]
