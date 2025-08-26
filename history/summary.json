@@ -87,12 +87,12 @@
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.40%",
     "time": 4431,
-    "timeDay": 1740,
+    "timeDay": 3167,
     "timeWeek": 717,
     "timeMonth": 3997,
     "timeYear": 4431,
@@ -300,18 +300,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.28%",
     "time": 5417,
-    "timeDay": 7190,
+    "timeDay": 13869,
     "timeWeek": 2992,
     "timeMonth": 5466,
     "timeYear": 5417,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-20": 44,
       "2025-08-19": 22,
       "2025-08-18": 48,
@@ -366,8 +367,7 @@
       "2025-05-06": 47,
       "2025-05-05": 106,
       "2025-04-28": 18,
-      "2025-04-26": 35,
-      "2025-04-22": 24
+      "2025-04-26": 35
     }
   }
 ]
