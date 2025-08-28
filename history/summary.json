@@ -29,12 +29,12 @@
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "88.31%",
+    "uptimeDay": "89.99%",
     "uptimeWeek": "92.73%",
     "uptimeMonth": "91.88%",
     "uptimeYear": "97.36%",
     "time": 3304,
-    "timeDay": 5120,
+    "timeDay": 4849,
     "timeWeek": 5464,
     "timeMonth": 5487,
     "timeYear": 3304,
@@ -174,18 +174,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "88.04%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "88.04%",
+    "status": "down",
+    "uptime": "88.05%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "88.05%",
     "time": 5880,
     "timeDay": 6740,
     "timeWeek": 2234,
-    "timeMonth": 5242,
+    "timeMonth": 5231,
     "timeYear": 5880,
     "dailyMinutesDown": {
+      "2025-08-28": 2,
       "2025-08-27": 52,
       "2025-08-26": 62,
       "2025-08-23": 15,
@@ -293,8 +294,7 @@
       "2025-03-21": 17,
       "2025-03-20": 51,
       "2025-03-13": 38,
-      "2025-03-11": 19,
-      "2025-03-10": 19
+      "2025-03-11": 19
     }
   },
   {
@@ -302,10 +302,10 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.28%",
     "time": 5427,
@@ -369,7 +369,7 @@
       "2025-05-06": 47,
       "2025-05-05": 106,
       "2025-04-28": 18,
-      "2025-04-26": 35
+      "2025-04-26": 17
     }
   }
 ]
