@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "98.31%",
     "uptimeWeek": "82.75%",
     "uptimeMonth": "91.43%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.14%",
     "time": 3451,
     "timeDay": 1485,
     "timeWeek": 5011,
@@ -90,18 +90,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 4409,
     "timeDay": 6252,
     "timeWeek": 3172,
     "timeMonth": 3138,
     "timeYear": 4409,
     "dailyMinutesDown": {
+      "2025-09-04": 3,
       "2025-09-01": 41,
       "2025-08-30": 15,
       "2025-08-25": 88,
@@ -168,8 +169,7 @@
       "2025-04-28": 36,
       "2025-04-27": 20,
       "2025-04-25": 65,
-      "2025-04-22": 31,
-      "2025-04-21": 18
+      "2025-04-22": 31
     }
   },
   {
@@ -177,18 +177,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "88.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "88.29%",
+    "status": "down",
+    "uptime": "88.30%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "88.30%",
     "time": 5851,
     "timeDay": 7007,
     "timeWeek": 4159,
     "timeMonth": 4423,
     "timeYear": 5851,
     "dailyMinutesDown": {
+      "2025-09-04": 2,
       "2025-09-02": 41,
       "2025-09-01": 15,
       "2025-08-29": 36,
@@ -295,8 +296,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 509,
-      "2025-03-28": 39,
-      "2025-03-22": 27
+      "2025-03-28": 39
     }
   },
   {
@@ -304,9 +304,9 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "98.59%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "99.29%",
@@ -316,6 +316,7 @@
     "timeMonth": 4976,
     "timeYear": 5404,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-09-03": 20,
       "2025-09-02": 44,
       "2025-09-01": 23,
@@ -372,7 +373,7 @@
       "2025-05-13": 42,
       "2025-05-12": 19,
       "2025-05-06": 47,
-      "2025-05-05": 61
+      "2025-05-05": 25
     }
   }
 ]
