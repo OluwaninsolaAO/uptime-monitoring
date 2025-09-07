@@ -92,18 +92,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.50%",
     "time": 4398,
     "timeDay": 289,
     "timeWeek": 4458,
     "timeMonth": 2831,
     "timeYear": 4398,
     "dailyMinutesDown": {
+      "2025-09-07": 2,
       "2025-09-04": 132,
       "2025-09-01": 41,
       "2025-08-30": 15,
@@ -170,7 +171,7 @@
       "2025-05-01": 42,
       "2025-04-28": 36,
       "2025-04-27": 20,
-      "2025-04-25": 65
+      "2025-04-25": 27
     }
   },
   {
@@ -268,18 +269,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "99.29%",
     "time": 5409,
     "timeDay": 554,
     "timeWeek": 5171,
     "timeMonth": 5191,
     "timeYear": 5409,
     "dailyMinutesDown": {
-      "2025-09-07": 14,
       "2025-09-04": 31,
       "2025-09-03": 20,
       "2025-09-02": 44,
@@ -336,7 +336,8 @@
       "2025-05-16": 26,
       "2025-05-13": 42,
       "2025-05-12": 19,
-      "2025-05-06": 47
+      "2025-05-06": 47,
+      "2025-05-05": 25
     }
   }
 ]
