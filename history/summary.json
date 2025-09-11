@@ -32,19 +32,19 @@
     "url": "https://hbi-web.vercel.app/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "98.66%",
-    "time": 3438,
-    "timeDay": 4572,
-    "timeWeek": 2847,
-    "timeMonth": 5385,
-    "timeYear": 3438,
+    "time": 3450,
+    "timeDay": 5446,
+    "timeWeek": 3407,
+    "timeMonth": 5406,
+    "timeYear": 3450,
     "dailyMinutesDown": {
-      "2025-09-11": 66,
+      "2025-09-11": 68,
       "2025-09-04": 19,
       "2025-09-03": 24,
       "2025-09-02": 1242,
@@ -82,7 +82,7 @@
       "2025-03-18": 676,
       "2025-02-14": 19,
       "2025-02-12": 67,
-      "2025-02-11": 76
+      "2025-02-11": 53
     }
   },
   {
