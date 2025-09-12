@@ -32,18 +32,19 @@
     "url": "https://hbi-web.vercel.app/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-web.vercel.app.ico",
     "slug": "helix-biogen-institute-backend-production-staging",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "96.92%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "98.66%",
-    "time": 3482,
-    "timeDay": 6456,
-    "timeWeek": 4617,
-    "timeMonth": 5437,
-    "timeYear": 3482,
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "98.67%",
+    "time": 3494,
+    "timeDay": 6953,
+    "timeWeek": 4910,
+    "timeMonth": 5457,
+    "timeYear": 3494,
     "dailyMinutesDown": {
+      "2025-09-12": 1,
       "2025-09-11": 88,
       "2025-09-04": 19,
       "2025-09-03": 24,
@@ -82,7 +83,7 @@
       "2025-03-18": 676,
       "2025-02-14": 19,
       "2025-02-12": 67,
-      "2025-02-11": 53
+      "2025-02-11": 34
     }
   },
   {
@@ -91,18 +92,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "98.55%",
+    "uptime": "98.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "98.54%",
     "time": 4319,
     "timeDay": 1376,
     "timeWeek": 3345,
     "timeMonth": 2139,
     "timeYear": 4319,
     "dailyMinutesDown": {
-      "2025-09-12": 12,
       "2025-09-10": 20,
       "2025-09-09": 23,
       "2025-09-04": 132,
@@ -169,7 +169,8 @@
       "2025-05-04": 16,
       "2025-05-03": 25,
       "2025-05-01": 42,
-      "2025-04-28": 36
+      "2025-04-28": 36,
+      "2025-04-27": 20
     }
   },
   {
