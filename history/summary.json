@@ -34,12 +34,12 @@
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "93.87%",
+    "uptimeDay": "96.92%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "91.34%",
     "uptimeYear": "98.66%",
     "time": 3482,
-    "timeDay": 6032,
+    "timeDay": 6064,
     "timeWeek": 4617,
     "timeMonth": 5437,
     "timeYear": 3482,
@@ -177,11 +177,11 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.40%",
     "time": 5877,
     "timeDay": 1117,
@@ -189,6 +189,7 @@
     "timeMonth": 4196,
     "timeYear": 5877,
     "dailyMinutesDown": {
+      "2025-09-12": 1,
       "2025-09-11": 15,
       "2025-09-10": 23,
       "2025-09-09": 40,
@@ -254,8 +255,7 @@
       "2025-05-26": 32,
       "2025-05-25": 31,
       "2025-05-23": 35,
-      "2025-05-22": 37,
-      "2025-05-21": 29
+      "2025-05-22": 37
     }
   },
   {
