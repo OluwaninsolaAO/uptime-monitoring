@@ -34,17 +34,17 @@
     "slug": "helix-biogen-institute-backend-production-staging",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "91.58%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "98.86%",
     "time": 3619,
     "timeDay": 6208,
     "timeWeek": 5621,
-    "timeMonth": 5470,
+    "timeMonth": 5451,
     "timeYear": 3619,
     "dailyMinutesDown": {
-      "2025-09-15": 47,
+      "2025-09-15": 34,
       "2025-09-14": 57,
       "2025-09-13": 44,
       "2025-09-12": 18,
@@ -80,7 +80,8 @@
       "2025-08-01": 210,
       "2025-07-31": 64,
       "2025-07-19": 30,
-      "2025-07-02": 54
+      "2025-07-02": 54,
+      "2025-07-01": 22
     }
   },
   {
@@ -88,18 +89,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "98.58%",
     "time": 4282,
     "timeDay": 120,
     "timeWeek": 1586,
     "timeMonth": 2138,
     "timeYear": 4282,
     "dailyMinutesDown": {
+      "2025-09-15": 2,
       "2025-09-10": 20,
       "2025-09-09": 23,
       "2025-09-04": 132,
@@ -166,8 +168,7 @@
       "2025-05-04": 16,
       "2025-05-03": 25,
       "2025-05-01": 42,
-      "2025-04-28": 36,
-      "2025-04-27": 20
+      "2025-04-28": 36
     }
   },
   {
