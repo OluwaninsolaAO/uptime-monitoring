@@ -36,12 +36,12 @@
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "94.31%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "98.89%",
     "time": 3630,
     "timeDay": 297,
     "timeWeek": 2254,
-    "timeMonth": 5055,
+    "timeMonth": 5044,
     "timeYear": 3630,
     "dailyMinutesDown": {
       "2025-09-17": 17,
@@ -175,18 +175,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.42%",
     "time": 5877,
     "timeDay": 8187,
     "timeWeek": 5554,
     "timeMonth": 5492,
     "timeYear": 5877,
     "dailyMinutesDown": {
+      "2025-09-24": 2,
       "2025-09-23": 22,
       "2025-09-19": 35,
       "2025-09-17": 32,
@@ -254,8 +255,7 @@
       "2025-05-29": 24,
       "2025-05-28": 78,
       "2025-05-27": 18,
-      "2025-05-26": 32,
-      "2025-05-25": 31
+      "2025-05-26": 32
     }
   },
   {
@@ -263,9 +263,9 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.32%",
@@ -275,6 +275,7 @@
     "timeMonth": 6575,
     "timeYear": 5498,
     "dailyMinutesDown": {
+      "2025-09-24": 0,
       "2025-09-22": 16,
       "2025-09-17": 52,
       "2025-09-08": 74,
@@ -331,8 +332,7 @@
       "2025-05-24": 56,
       "2025-05-22": 27,
       "2025-05-21": 58,
-      "2025-05-20": 26,
-      "2025-05-16": 26
+      "2025-05-20": 26
     }
   }
 ]
