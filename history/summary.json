@@ -13,7 +13,7 @@
     "time": 164,
     "timeDay": 98,
     "timeWeek": 158,
-    "timeMonth": 164,
+    "timeMonth": 166,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-09-04": 20,
@@ -41,7 +41,7 @@
     "time": 3607,
     "timeDay": 1603,
     "timeWeek": 1581,
-    "timeMonth": 4593,
+    "timeMonth": 4624,
     "timeYear": 3607,
     "dailyMinutesDown": {
       "2025-09-17": 17,
@@ -92,7 +92,7 @@
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.34%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.69%",
     "time": 4413,
     "timeDay": 12119,
@@ -177,18 +177,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.41%",
     "time": 5876,
     "timeDay": 6758,
     "timeWeek": 6111,
     "timeMonth": 6079,
     "timeYear": 5876,
     "dailyMinutesDown": {
-      "2025-10-01": 9,
       "2025-09-30": 38,
       "2025-09-28": 16,
       "2025-09-27": 55,
@@ -255,7 +254,8 @@
       "2025-06-11": 28,
       "2025-06-10": 69,
       "2025-06-09": 19,
-      "2025-06-03": 19
+      "2025-06-03": 19,
+      "2025-06-02": 17
     }
   },
   {
@@ -263,18 +263,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.08%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.33%",
     "time": 5483,
     "timeDay": 18624,
-    "timeWeek": 3878,
-    "timeMonth": 6593,
+    "timeWeek": 4102,
+    "timeMonth": 6692,
     "timeYear": 5483,
     "dailyMinutesDown": {
+      "2025-10-01": 0,
       "2025-09-27": 16,
       "2025-09-26": 20,
       "2025-09-24": 78,
@@ -332,8 +333,7 @@
       "2025-05-29": 44,
       "2025-05-26": 49,
       "2025-05-24": 56,
-      "2025-05-22": 27,
-      "2025-05-21": 23
+      "2025-05-22": 27
     }
   }
 ]
