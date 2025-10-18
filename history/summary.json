@@ -89,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 4580,
     "timeDay": 203,
     "timeWeek": 8721,
@@ -265,9 +265,9 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.34%",
@@ -275,8 +275,9 @@
     "timeDay": 471,
     "timeWeek": 4252,
     "timeMonth": 6962,
-    "timeYear": 5645,
+    "timeYear": 5669,
     "dailyMinutesDown": {
+      "2025-10-18": 0,
       "2025-10-15": 25,
       "2025-10-14": 23,
       "2025-10-07": 37,
@@ -336,8 +337,7 @@
       "2025-06-08": 30,
       "2025-06-05": 125,
       "2025-06-04": 18,
-      "2025-06-02": 66,
-      "2025-06-01": 39
+      "2025-06-02": 66
     }
   }
 ]
