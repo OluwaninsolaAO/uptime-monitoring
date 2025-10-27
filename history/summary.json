@@ -88,19 +88,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "98.85%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "98.86%",
     "time": 4631,
     "timeDay": 7394,
     "timeWeek": 5876,
     "timeMonth": 6718,
     "timeYear": 4631,
     "dailyMinutesDown": {
-      "2025-10-27": 15,
+      "2025-10-27": 17,
       "2025-10-25": 57,
       "2025-10-23": 23,
       "2025-10-20": 31,
@@ -168,8 +168,7 @@
       "2025-05-24": 43,
       "2025-05-23": 28,
       "2025-05-22": 42,
-      "2025-05-19": 28,
-      "2025-05-15": 18
+      "2025-05-19": 28
     }
   },
   {
@@ -179,17 +178,17 @@
     "slug": "open-science-community-nigeria-api",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.42%",
     "time": 5819,
     "timeDay": 4780,
     "timeWeek": 3415,
     "timeMonth": 4176,
     "timeYear": 5871,
     "dailyMinutesDown": {
-      "2025-10-27": 31,
+      "2025-10-27": 20,
       "2025-10-24": 18,
       "2025-10-15": 19,
       "2025-10-08": 21,
@@ -257,7 +256,8 @@
       "2025-06-20": 65,
       "2025-06-18": 24,
       "2025-06-17": 19,
-      "2025-06-14": 17
+      "2025-06-14": 17,
+      "2025-06-13": 15
     }
   },
   {
@@ -265,18 +265,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 5556,
     "timeDay": 7385,
     "timeWeek": 8200,
     "timeMonth": 6516,
-    "timeYear": 5693,
+    "timeYear": 5667,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-23": 22,
       "2025-10-20": 822,
       "2025-10-19": 41,
@@ -338,8 +339,7 @@
       "2025-06-15": 20,
       "2025-06-10": 21,
       "2025-06-08": 30,
-      "2025-06-05": 125,
-      "2025-06-04": 18
+      "2025-06-05": 125
     }
   }
 ]
