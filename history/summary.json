@@ -183,9 +183,9 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.41%",
     "time": 5768,
-    "timeDay": 4512,
+    "timeDay": 5061,
     "timeWeek": 3373,
-    "timeMonth": 4064,
+    "timeMonth": 4113,
     "timeYear": 5832,
     "dailyMinutesDown": {
       "2025-11-01": 59,
@@ -264,18 +264,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.20%",
     "time": 5614,
     "timeDay": 16924,
     "timeWeek": 7121,
     "timeMonth": 7151,
-    "timeYear": 5717,
+    "timeYear": 5724,
     "dailyMinutesDown": {
+      "2025-11-01": 0,
       "2025-10-29": 44,
       "2025-10-27": 25,
       "2025-10-23": 22,
@@ -338,8 +339,7 @@
       "2025-06-16": 93,
       "2025-06-15": 20,
       "2025-06-10": 21,
-      "2025-06-08": 30,
-      "2025-06-05": 86
+      "2025-06-08": 30
     }
   }
 ]
