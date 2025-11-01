@@ -96,7 +96,7 @@
     "uptimeYear": "98.87%",
     "time": 4671,
     "timeDay": 12115,
-    "timeWeek": 6014,
+    "timeWeek": 6364,
     "timeMonth": 6625,
     "timeYear": 4671,
     "dailyMinutesDown": {
@@ -176,19 +176,19 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.43%",
     "time": 5767,
-    "timeDay": 2642,
+    "timeDay": 2958,
     "timeWeek": 3511,
-    "timeMonth": 4198,
+    "timeMonth": 4303,
     "timeYear": 5841,
     "dailyMinutesDown": {
-      "2025-11-01": 106,
+      "2025-11-01": 108,
       "2025-10-31": 85,
       "2025-10-30": 87,
       "2025-10-28": 16,
@@ -253,8 +253,7 @@
       "2025-06-30": 128,
       "2025-06-29": 55,
       "2025-06-26": 20,
-      "2025-06-24": 28,
-      "2025-06-23": 59
+      "2025-06-24": 28
     }
   },
   {
@@ -262,16 +261,16 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "98.03%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "99.20%",
     "time": 5613,
     "timeDay": 5961,
     "timeWeek": 6172,
-    "timeMonth": 7027,
+    "timeMonth": 7268,
     "timeYear": 5717,
     "dailyMinutesDown": {
       "2025-11-01": 28,
@@ -336,8 +335,7 @@
       "2025-06-17": 20,
       "2025-06-16": 93,
       "2025-06-15": 20,
-      "2025-06-10": 21,
-      "2025-06-08": 30
+      "2025-06-10": 21
     }
   }
 ]
