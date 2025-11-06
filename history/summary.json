@@ -89,18 +89,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.90%",
+    "uptime": "98.89%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.89%",
     "time": 4555,
     "timeDay": 1678,
     "timeWeek": 2541,
     "timeMonth": 5322,
     "timeYear": 4555,
     "dailyMinutesDown": {
-      "2025-11-06": 15,
       "2025-11-05": 33,
       "2025-11-04": 41,
       "2025-11-03": 118,
@@ -167,7 +166,8 @@
       "2025-06-06": 20,
       "2025-06-05": 41,
       "2025-06-02": 61,
-      "2025-06-01": 57
+      "2025-06-01": 57,
+      "2025-05-29": 50
     }
   },
   {
@@ -185,7 +185,7 @@
     "timeDay": 2168,
     "timeWeek": 6177,
     "timeMonth": 5084,
-    "timeYear": 5891,
+    "timeYear": 5896,
     "dailyMinutesDown": {
       "2025-11-05": 105,
       "2025-11-04": 141,
@@ -260,18 +260,19 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "96.92%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 5657,
     "timeDay": 512,
     "timeWeek": 5434,
     "timeMonth": 7125,
     "timeYear": 5681,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-04": 111,
       "2025-11-03": 45,
       "2025-11-01": 83,
@@ -334,7 +335,7 @@
       "2025-06-21": 39,
       "2025-06-19": 60,
       "2025-06-17": 20,
-      "2025-06-16": 58
+      "2025-06-16": 35
     }
   }
 ]
