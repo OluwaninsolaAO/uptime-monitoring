@@ -88,18 +88,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.93%",
     "time": 4562,
     "timeDay": 10122,
     "timeWeek": 4837,
     "timeMonth": 4756,
     "timeYear": 4562,
     "dailyMinutesDown": {
+      "2025-11-13": 1,
       "2025-11-12": 48,
       "2025-11-11": 22,
       "2025-11-05": 33,
@@ -168,7 +169,7 @@
       "2025-06-06": 20,
       "2025-06-05": 41,
       "2025-06-02": 61,
-      "2025-06-01": 41
+      "2025-06-01": 18
     }
   },
   {
@@ -268,7 +269,7 @@
     "uptimeYear": "99.17%",
     "time": 5655,
     "timeDay": 4155,
-    "timeWeek": 2931,
+    "timeWeek": 3063,
     "timeMonth": 5137,
     "timeYear": 5647,
     "dailyMinutesDown": {
