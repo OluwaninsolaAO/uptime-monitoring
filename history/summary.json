@@ -88,18 +88,19 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.92%",
     "time": 4648,
     "timeDay": 12139,
     "timeWeek": 6294,
     "timeMonth": 4988,
     "timeYear": 4648,
     "dailyMinutesDown": {
+      "2025-11-17": 2,
       "2025-11-14": 154,
       "2025-11-13": 43,
       "2025-11-12": 48,
@@ -167,8 +168,7 @@
       "2025-06-09": 26,
       "2025-06-08": 22,
       "2025-06-07": 40,
-      "2025-06-06": 20,
-      "2025-06-05": 41
+      "2025-06-06": 20
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeDay": 11959,
     "timeWeek": 7100,
     "timeMonth": 5740,
-    "timeYear": 5996,
+    "timeYear": 6002,
     "dailyMinutesDown": {
       "2025-11-17": 50,
       "2025-11-14": 15,
@@ -261,9 +261,9 @@
     "slug": "helix-intranet-api-dev",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "96.38%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "99.17%",
     "time": 5672,
     "timeDay": 7293,
@@ -271,7 +271,6 @@
     "timeMonth": 5613,
     "timeYear": 5638,
     "dailyMinutesDown": {
-      "2025-11-17": 8,
       "2025-11-16": 26,
       "2025-11-14": 47,
       "2025-11-13": 63,
@@ -335,7 +334,8 @@
       "2025-06-30": 55,
       "2025-06-28": 78,
       "2025-06-27": 56,
-      "2025-06-26": 17
+      "2025-06-26": 17,
+      "2025-06-25": 30
     }
   }
 ]
