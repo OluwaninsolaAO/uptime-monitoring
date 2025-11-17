@@ -88,11 +88,11 @@
     "url": "https://sendmail.karliemoyo.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/sendmail.karliemoyo.tech.ico",
     "slug": "karlie-moyo-portfolio-send-mail-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "98.92%",
     "time": 4637,
     "timeDay": 6144,
@@ -100,7 +100,7 @@
     "timeMonth": 4912,
     "timeYear": 4637,
     "dailyMinutesDown": {
-      "2025-11-17": 13,
+      "2025-11-17": 3,
       "2025-11-14": 154,
       "2025-11-13": 43,
       "2025-11-12": 48,
@@ -176,10 +176,10 @@
     "url": "https://api.oscnigeria.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.oscnigeria.org.ico",
     "slug": "open-science-community-nigeria-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "97.72%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "97.70%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.42%",
     "time": 5920,
@@ -188,7 +188,7 @@
     "timeMonth": 5740,
     "timeYear": 6002,
     "dailyMinutesDown": {
-      "2025-11-17": 50,
+      "2025-11-17": 52,
       "2025-11-14": 15,
       "2025-11-13": 62,
       "2025-11-12": 27,
@@ -251,7 +251,7 @@
       "2025-07-17": 52,
       "2025-07-16": 21,
       "2025-07-15": 45,
-      "2025-07-14": 31
+      "2025-07-14": 16
     }
   },
   {
@@ -259,11 +259,11 @@
     "url": "https://hbi-intranet-backend.onrender.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/hbi-intranet-backend.onrender.com.ico",
     "slug": "helix-intranet-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "96.39%",
     "uptimeYear": "99.17%",
     "time": 5672,
     "timeDay": 7293,
@@ -271,6 +271,7 @@
     "timeMonth": 5613,
     "timeYear": 5638,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-11-16": 26,
       "2025-11-14": 47,
       "2025-11-13": 63,
@@ -334,8 +335,7 @@
       "2025-06-30": 55,
       "2025-06-28": 78,
       "2025-06-27": 56,
-      "2025-06-26": 17,
-      "2025-06-25": 30
+      "2025-06-26": 17
     }
   }
 ]
